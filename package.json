@@ -1,0 +1,25 @@
+{
+  "name": "node-ewma",
+  "version": "0.0.0",
+  "description": "Calculate the exponentially weighted moving average (otherwise known as Unix 'load average') of a counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlack/node-ewma.git"
+  },
+  "keywords": [
+    "statistics",
+    "stats",
+    "exponentially",
+    "weighted",
+    "moving",
+    "average",
+    "moving",
+    "average"
+  ],
+  "author": "lackner@gmail.com",
+  "license": "BSD"
+}
